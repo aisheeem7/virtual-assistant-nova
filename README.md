@@ -59,9 +59,5 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 Start the dev server
 Run the following command to launch the application:
 
-```bash
+Bash
 npm run dev
-Open http://localhost:5173 in your browser.
-
-### **API Usage**
-NOVA uses the Gemini API free tier—no credit card required.
