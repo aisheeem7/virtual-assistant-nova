@@ -44,14 +44,14 @@ cd nova-chatbot
 npm install
 ``` 
 
-### **Add Your API Key**
+2. **Add Your API Key**
 
 Create a .env file in the root folder and add your API key:
 ```bash
 VITE_GEMINI_API_KEY=your_gemini_api_key_here
 ``` 
 
-### **Start the dev server**
+3. **Start the dev server**
 ```bash
 npm run dev
 ```
