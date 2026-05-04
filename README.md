@@ -39,25 +39,25 @@ A conversational AI assistant with voice input, speech output, live web search, 
 
 ### **Installation**
 
-**Clone and install**
+1. **Clone and install**
 ```bash
 git clone [https://github.com/your-username/nova-chatbot.git](https://github.com/your-username/nova-chatbot.git)
 cd nova-chatbot
 npm install
+``` 
 
-### **Add your API key**
+### *Add Your API Key*
 
-Create a `.env` file in the root folder and add the following line:
-```env
+Create a .env file in the root folder and add your API key:
+```bash
 VITE_GEMINI_API_KEY=your_gemini_api_key_here
+``` 
 
-Add your API key
-Create a .env file in the root folder and add your key:
-
-Code snippet
-VITE_GEMINI_API_KEY=your_gemini_api_key_here
-Start the dev server
-Run the following command to launch the application:
-
-Bash
+### *Start the dev server*
+```bash
 npm run dev
+```
+
+---
+
+### *Open http://localhost:5173 in your browser.*
