@@ -12,8 +12,6 @@ A conversational AI assistant with voice input, speech output, live web search, 
 *   **Multi-turn Memory:** Full conversation context is sent with every message for seamless flow.
 *   **Persistent Chat History:** All sessions are saved to `localStorage` and accessible via the sidebar.
 *   **Smart Retry Logic:** Automatically retries on rate limit errors to ensure a smooth user experience.
-*   **Always Date-Aware:** Current date and time are injected into every request for up-to-date answers.
-*   **Dark Mode UI:** Sleek interface with color-coded message bubbles and a collapsible sidebar.
 
 ---
 
